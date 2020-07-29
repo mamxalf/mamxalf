@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently a Student at Amikom University
 - 🌱 I’m currently learning Laravel, NodeJs and Microservice
-- 👯 I’m looking to collaborate on [Hypesthetic Creatice](https://www.instagram.com/hypestheticreative/)
+- 👯 I’m looking to collaborate on [Hypesthetic Creative](https://www.instagram.com/hypestheticreative/)
 - 🤔 I’m looking for help with Making **CUAN** :sweat_smile:   :wink:
 - 💬 Ask me about anything, I am happy to sharing about my experience :feet:   :+1: 
 - 📫 How to reach me: hammamxalf@gmail.com / +6285727617995
